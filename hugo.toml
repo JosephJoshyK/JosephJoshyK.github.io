@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'jojo'
 theme = 'hugo_cat'
 
 PygmentsCodeFences = true
@@ -12,7 +12,7 @@ enableEmoji = true
 
 [params]
 ava = "/img/cat.png"
-owner ="Red Kitty"
+owner ="Joseph Joshy"
 talk = "Hello guys &#128075; im cool kitty..."
 blogSection = ["blog"]
 description = "Cat"
