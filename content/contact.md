@@ -4,4 +4,4 @@ draft: false
 layout: staticpage
 ---
 
-Mail me : cat@example.com
+Mail me : cat@test.com
