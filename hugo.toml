@@ -39,7 +39,7 @@ url = "/about/"
 weight = 4
 
 [[menu.main]]
-name = "Check"
+name = "Checkere"
 url = "/check/"
 weight = 5
 
