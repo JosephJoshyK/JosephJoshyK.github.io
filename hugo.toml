@@ -11,7 +11,7 @@ disableHugoGeneratorInject = false
 enableEmoji = true
 
 [params]
-ava = "/img/cat.png"
+ava = "/face.jpg"
 owner ="Joseph Joshy"
 talk = "Hello guys &#128075; im Joseph Joshy..."
 blogSection = ["blog"]
