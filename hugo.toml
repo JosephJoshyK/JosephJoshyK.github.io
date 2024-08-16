@@ -13,7 +13,7 @@ enableEmoji = true
 [params]
 ava = "/face.jpg"
 owner ="Joseph Joshy"
-talk = "Hello guys &#128075; im Joseph Joshy..."
+talk = "Hello guys &#128075; im Joseph Joshy njan ..."
 blogSection = ["blog"]
 description = "Cat"
 favicon = "/img/logo.svg"
