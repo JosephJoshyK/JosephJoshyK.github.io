@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>jojoghgf</title>
+    <title>Joseph Joshy</title>
     <link>https://example.org/</link>
-    <description>Recent content on jojoghgf</description>
+    <description>Recent content on Joseph Joshy</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 Mar 2023 00:00:00 +0000</lastBuildDate>
@@ -41,7 +41,7 @@
       <link>https://example.org/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://example.org/about/</guid>
-      <description>Hello , thankyou. Joseph</description>
+      <description>Hello.&#xA;# </description>
     </item>
     <item>
       <title>Contact</title>
