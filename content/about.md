@@ -3,6 +3,6 @@ title: "About me"
 draft: false
 layout: staticpage
 ---
-Hello , thankyou. Joseph
+Hello.
 
-![Map](/vlc.png)
+#![Map](/vlc.png)
